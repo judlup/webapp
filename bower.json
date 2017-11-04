@@ -1,0 +1,23 @@
+{
+  "name": "WebApp",
+  "description": "Base Web App",
+  "main": "index.html",
+  "keywords": [    
+  ],
+  "authors": [
+    "Domoteco S.A.S"
+  ],
+  "license": "MIT",
+  "homepage": "domoteco.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.7.0",
+    "angular-ui-bootstrap-datetimepicker": "^2.5.0"
+  }
+}
